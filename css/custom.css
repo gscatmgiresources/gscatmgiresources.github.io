@@ -1,0 +1,228 @@
+.cntr {
+	text-align: center;
+}
+
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.jumbotron {
+	text-align: center;
+	padding-top: 70px;
+  padding-bottom: 52px;
+  margin-top: 40px;
+
+    background-image:url('../images/divider4.jpg');
+    width: 100%;
+    height: 100%;
+
+    color: white;
+  }
+  .jumbotron h1 {
+  	font-family: 'Oswald', sans-serif;
+  }
+  .jumbotron p {
+  	font-family: 'Julius Sans One', sans-serif;
+  }
+
+  .navbar-collapse {
+  	font-family: 'Josefin Sans', sans-serif;
+  	border-color: #65C6BB;
+  	padding-right: 40px;
+  }
+.clr{
+	color: #2C3E50;
+}
+
+  .html {
+  	color: #8E44AD;
+  }
+  .orange{
+  	color: #F5AB35;
+  }
+
+  .navbar-brand {
+  	font-family: 'Josefin Sans', sans-serif;
+  }
+ .green {
+ 	color:#22D7A9;
+ }
+
+ .white {
+  color: #fff;
+ }
+ .background-services{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  background-image:url('../images/metro2.png');
+  color: #fff
+
+ }
+
+
+.background-white {
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px
+}
+ .background-white .row {
+  padding-bottom: 70px;
+}
+
+ .background-white h2{
+   font-family: 'Julius Sans One', sans-serif;
+ }
+ .background-white h3{
+   font-family: 'Julius Sans One', sans-serif;
+ }
+
+ .page-header h1{
+  font-family: 'Julius Sans One', sans-serif;
+  text-align: center;
+ }
+.juliushead {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+.josenormal {
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  font-size: 15px;
+}
+
+
+ .timeline {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 16px
+ }
+ .timeline-title {
+  color:#22D7A9;
+  font-size: 25px;
+ }
+.background-services .row {
+  padding-bottom: 10px;
+}
+
+
+ .service-item h4{
+  font-family: 'Julius Sans One', sans-serif;
+ }
+
+ .background-services h1 {
+   font-family: 'Julius Sans One', sans-serif;
+   padding-top: 20px;
+ }
+
+ .contct h1{
+  padding-top: 60px;
+ }
+
+.blue{
+	color:  #65C6BB;
+
+}
+
+/* Links */
+a {
+    color: #3498db;
+    word-wrap: break-word;
+
+    -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -o-transition: color 0.1s ease-in, background 0.1s ease-in;
+    transition: color 0.1s ease-in, background 0.1s ease-in;
+}
+
+a:hover,
+a:focus {
+    color: #c0392b;
+    text-decoration: none;
+    outline: 0;
+}
+
+a:before,
+a:after {
+    -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -o-transition: color 0.1s ease-in, background 0.1s ease-in;
+    transition: color 0.1s ease-in, background 0.1s ease-in;
+}
+
+
+
+/* ==========================================================================
+   Wrap Sections
+   ========================================================================== */
+
+
+
+/* ==========================================================================
+   Box Sections
+   ========================================================================== */
+
+
+/* Section Dividers */
+.section-divider {
+    z-index: 999;
+    width: 100%;
+    display: table;
+    max-height: 450px;
+    border-bottom: 2px solid #E6EAED;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-top: 30px;
+    padding-bottom: 70px;
+    margin-top: 45px;
+
+
+    background-position: center center;
+
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    background-attachment: relative;
+    
+    text-align: center;
+}
+
+.textdivider h1 {
+	padding-top: 70px;
+	color: white;
+	font-size: 40px;
+}
+
+.textdivider p {
+	color: white;
+	font-size: 25px;
+}
+
+.navbar-collapse {
+	margin-right: 20px;
+}
+.navbar-inverse {
+	background-color: #A2DED0;
+}
+
+.fb{
+	color: #6C7A89;
+}
+
+.blog {
+	color: #F5AB35;
+}
+
+.webisite {
+	color: #4ECDC4;
+}
