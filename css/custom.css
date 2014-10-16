@@ -152,62 +152,6 @@ a:after {
 }
 
 
-
-/* ==========================================================================
-   Wrap Sections
-   ========================================================================== */
-
-
-
-/* ==========================================================================
-   Box Sections
-   ========================================================================== */
-
-
-/* Section Dividers */
-.section-divider {
-    z-index: 999;
-    width: 100%;
-    display: table;
-    max-height: 450px;
-    border-bottom: 2px solid #E6EAED;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -ms-box-sizing: border-box;
-    box-sizing: border-box;
-    padding-top: 30px;
-    padding-bottom: 70px;
-    margin-top: 45px;
-
-
-    background-position: center center;
-
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
-
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-
-    background-attachment: relative;
-    
-    text-align: center;
-}
-
-.textdivider h1 {
-	padding-top: 70px;
-	color: white;
-	font-size: 40px;
-}
-
-.textdivider p {
-	color: white;
-	font-size: 25px;
-}
-
 .navbar-collapse {
 	margin-right: 20px;
 }
